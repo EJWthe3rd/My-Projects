@@ -1,3 +1,10 @@
+'''I started learning some of the big packages for Python like numpy, Matplotlib, and pandas. Anyways I randomly got the idea to simulate
+snakes and ladders and find a way to incorporate Matplotlib for some practice. At first, I used scatter plots to see the positions that 
+would be landed on after 10 dice rolls. Then, I noticed some patterns at certain positions where a snake or ladder would be. I then 
+changed the project a bit, so I could see how often snakes and ladders would be landed on in total and for each individual one. Three bar
+plots are displayed, showing definitive patterns which you can see for yourself if you run the code. The game board that I simulated comes 
+from Yellow Mountain Imports (https://www.ymimports.com/pages/how-to-play-snakes-and-ladders).'''
+
 # importing necessary packages
 import numpy as np
 import matplotlib.pyplot as plt
